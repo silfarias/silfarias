@@ -16,15 +16,13 @@
 
 - 👩‍🎓 Graduated as "Multiplatform Software Development Technician" at the "Formosa Polytechnic Institute" (Formosa, Argentina) 2024.
 - 🌱 I am always looking to learn and develop strong skills in various technologies to grow in this constantly evolving field.
+- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
 
 ## Featured projects:
 - ⚖️ **LegalDocs**: A system responsible for improving the efficiency of the work carried out by lawyers👨‍⚖️, managing their documents 🧾, events and communication. Using React for the Frontend 💙 and Node.js with Express for the Backend 💚.
 
-## Contact
-<a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"></a>
-<a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
 
-## Technologies I use
+## 🛠 Tech Stack
 
 <h3>Languages</h3>
 <code><a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
@@ -43,7 +41,7 @@
 <br>
 <br>
 
-<h3>Frameworks, Libraries and Other tools</h3>
+<h3>Frameworks, Libraries and other Tools</h3>
 <code><a href="https://es.react.dev/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
@@ -61,6 +59,19 @@
 <h3>Project Management Tools</h3>
 <code><img height="60" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img height="60" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
+<br>
+<br>
+
+## 🤝 Connect with Me
+
+<p align="center">
+&nbsp; <a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"></a>
+&nbsp; <a href="https://www.linkedin.com/in/silvana-farias-103a54298/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
+&nbsp; <a href="https://www.threads.net/@sil.farias_" target="_blank"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/threads.svg"></a>
+
+</p>
+
+
 
 
 
