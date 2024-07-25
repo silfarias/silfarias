@@ -62,6 +62,13 @@
 <br>
 <br>
 
+<h2>📊 Stats</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silfarias&show_icons=true&theme=synthwave)](https://github.com/silfarias/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silfarias&layout=compact)
+
+
 ## 🤝 Connect with Me
 
 <p align="center">
