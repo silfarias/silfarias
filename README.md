@@ -42,6 +42,7 @@
 <br>
 
 <h3>Frameworks, Libraries and other Tools</h3>
+<code><a href="https://es.react.dev/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
 <code><a href="https://es.react.dev/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
